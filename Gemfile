@@ -8,7 +8,7 @@ group :development do
   gem 'shoulda', '~>2.11.0'
   gem 'ci_reporter', '1.6.0'
   gem 'rdiscount'
-  gem "rdoc", ">= 3.3"
+  gem "rdoc", ">= 6.3.1"
   gem 'logging'
 end
 
